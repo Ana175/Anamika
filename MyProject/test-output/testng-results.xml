@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" total="4" passed="4">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="52" started-at="2015-08-27T00:55:15Z" finished-at="2015-08-27T00:55:15Z">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="52" started-at="2015-08-27T00:55:15Z" finished-at="2015-08-27T00:55:15Z">
+      <class name="com.test.TestSmallest">
+        <test-method status="PASS" signature="testDuplicateNumbers()[pri:0, instance:com.test.TestSmallest@78e000bb]" name="testDuplicateNumbers" duration-ms="22" started-at="2015-08-26T19:55:15Z" finished-at="2015-08-26T19:55:15Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testDuplicateNumbers -->
+        <test-method status="PASS" signature="testNegativeNumbers()[pri:0, instance:com.test.TestSmallest@78e000bb]" name="testNegativeNumbers" duration-ms="0" started-at="2015-08-26T19:55:15Z" finished-at="2015-08-26T19:55:15Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testNegativeNumbers -->
+        <test-method status="PASS" signature="testPosNegNumbers()[pri:0, instance:com.test.TestSmallest@78e000bb]" name="testPosNegNumbers" duration-ms="1" started-at="2015-08-26T19:55:15Z" finished-at="2015-08-26T19:55:15Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testPosNegNumbers -->
+        <test-method status="PASS" signature="testPositiveNumbers()[pri:0, instance:com.test.TestSmallest@78e000bb]" name="testPositiveNumbers" duration-ms="1" started-at="2015-08-26T19:55:15Z" finished-at="2015-08-26T19:55:15Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testPositiveNumbers -->
+      </class> <!-- com.test.TestSmallest -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
